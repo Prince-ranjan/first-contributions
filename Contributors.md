@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start -->
 # Contributors
 - [Rav Galicio](https://github.com/Rabonito)
+- [Prince Ranjan](https://github.com/Prince-ranjan)
 - [Andy](https://github.com/andy814/)
 - [Abd Ash](https://github.com/AbdAsh/)
 - [Qiang Chen](https://github.com/KidLab2021)
